@@ -1,4 +1,4 @@
-### hidekimaesaka
+### Lucas Hideki Maesaka
 
 <div align="center">
   <a href="https://github.com/hidekimaesaka">
