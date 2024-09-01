@@ -8,5 +8,5 @@
  
 ##
 
-![Snake animation](https://github.com/hidekimaesaka/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/hidekimaesaka/hidekimaesaka/blob/output/github-contribution-grid-snake.svg)
  
