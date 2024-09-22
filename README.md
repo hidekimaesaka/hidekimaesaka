@@ -5,11 +5,13 @@
   <a href="https://github.com/hidekimaesaka">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidekimaesaka&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-
-
+    
 👩‍💻 I'm currently working on...
 
 A stocks/investments wallet manager web app.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hidekimaesaka&repo=app-invest-product-svc)](https://github.com/hidekimaesaka/app-invest-product-svc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hidekimaesaka&repo=app-invest-user-svc)](https://github.com/hidekimaesaka/app-invest-user-svc)
+
 
 📫 How to reach me...
 
