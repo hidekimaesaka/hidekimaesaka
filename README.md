@@ -7,10 +7,8 @@
 </div>
     
 👩‍💻 I'm currently working on...
-
-A stocks/investments wallet manager web app.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hidekimaesaka&repo=app-invest-product-svc)](https://github.com/hidekimaesaka/app-invest-product-svc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hidekimaesaka&repo=app-invest-user-svc)](https://github.com/hidekimaesaka/app-invest-user-svc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hidekimaesaka&repo=app-invest-product-svc&theme=midnight-purple)](https://github.com/hidekimaesaka/app-invest-product-svc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hidekimaesaka&repo=app-invest-user-svc&theme=midnight-purple)](https://github.com/hidekimaesaka/app-invest-user-svc)
 
 
 📫 How to reach me...
