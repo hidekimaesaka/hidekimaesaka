@@ -15,6 +15,8 @@
 <div align="left">
   <a href="https://github.com/hidekimaesaka/app-invest-product-svc">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hidekimaesaka&repo=app-invest-product-svc&theme=midnight-purple"/>
+  <a href="https://github.com/hidekimaesaka/app-invest-front-end">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hidekimaesaka&repo=app-invest-front-end&theme=midnight-purple"/>
 
   <a href="https://github.com/hidekimaesaka/app-invest-user-svc">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=hidekimaesaka&repo=app-invest-user-svc&theme=midnight-purple"/>
